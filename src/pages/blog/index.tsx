@@ -48,6 +48,7 @@ export async function getStaticProps({ preview }) {
 }
 
 export default ({ posts = [], preview }) => {
+  // test
   return (
     <>
       <Header titlePre="Blog" />

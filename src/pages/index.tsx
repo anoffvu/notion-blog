@@ -41,7 +41,7 @@ export default () => (
           </ExtLink>{' '}
           and{' '}
           <ExtLink href="https://github.com/vercel/next.js/issues/8626">
-            built-in CSS support
+            built-in CSS support test
           </ExtLink>{' '}
           which allow us to achieve all of the benefits listed above including
           blazing fast speeds, great local editing experience, and always being
